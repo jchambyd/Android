@@ -1,0 +1,26 @@
+<departamentos>
+        <departamento nombre="Amazonas" capital="Chachapoyas" link="http://es.wikipedia.org/wiki/Amazonas" />
+        <departamento nombre="Ancash" capital="Huaraz" link="http://es.wikipedia.org/wiki/Ancash" />
+        <departamento nombre="Apurimac" capital="Avancay" link="http://es.wikipedia.org/wiki/Departamento_de_Apurímac" />
+        <departamento nombre="Arequipa" capital="Arequipa" link="http://es.wikipedia.org/wiki/Arequipa" />
+        <departamento nombre="Ayacucho" capital="Ayacucho" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Cajamarca" capital="Cajamarca" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Cusco" capital="Cuzco" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Huancavelica" capital="Huancavelica" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Huanuco" capital="Huanuco" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Ica" capital="Ica" link="http://es.wikipedia.org/wiki/Ica" />
+        <departamento nombre="Junin" capital="Huancayo" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="La Libertad" capital="Trujillo" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Lambayeque" capital="Chiclayo" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Lima" capital="Lima" link="http://es.wikipedia.org/wiki/Lima" />
+        <departamento nombre="Loreto" capital="Iquitos" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Madre de Dios" capital="Puerto Maldonado" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Moquegua" capital="Moquegua" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Pasco" capital="Cerro de Pasco" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Piura" capital="Piura" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />       
+        <departamento nombre="Puno" capital="Puno" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="San Martin" capital="Moyobamba" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Tacna" capital="Tacna" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Tumbes" capital="Tumbes" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />
+        <departamento nombre="Ucayali" capital="Pucallpa" link="http://es.wikipedia.org/wiki/Regiones_y_departamentos_del_Per%C3%BA" />               
+</departamentos>
